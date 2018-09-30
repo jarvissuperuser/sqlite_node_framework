@@ -1,0 +1,22 @@
+{
+  "name": "sqlite_node_framework",
+  "version": "0.0.1",
+  "description": "quick framework to for sqlite_db",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarvissuperuser/sqlite_node_framework.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "timothy t mugadza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarvissuperuser/sqlite_node_framework/issues"
+  },
+  "homepage": "https://github.com/jarvissuperuser/sqlite_node_framework#readme"
+}
